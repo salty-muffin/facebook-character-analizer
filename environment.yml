@@ -1,0 +1,6 @@
+name: facebook-character-analizer
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - selenium==4.29.0
